@@ -89,7 +89,7 @@
                     <asp:TextBox ID="billNoTextBox" runat="server" Font-Size="15pt" Width="180px"></asp:TextBox>
                 </td>
                 <td>
-                    <asp:Button ID="searchButton" runat="server" Font-Size="Medium" OnClick="searchButton_Click" Text="Search" />
+                    <asp:Button ID="searchButton" runat="server" Font-Size="Medium" OnClick="searchButton_Click" Text="Search" style="height: 28px" />
                 </td>
             </tr>
         </table>
